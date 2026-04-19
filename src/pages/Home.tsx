@@ -7,27 +7,26 @@ export function Home() {
     <div className="flex flex-col gap-12 md:gap-16 max-w-5xl mx-auto px-4 py-8">
       
       {/* Hero Section */}
-      <section className="flex flex-col md:flex-row gap-8 items-start md:items-center">
+      <section className="flex flex-col md:flex-row gap-10 items-start">
         <motion.div 
           initial={{ opacity: 0, scale: 0.9 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.5 }}
-          className="w-48 h-48 md:w-64 md:h-64 rounded-2xl overflow-hidden shrink-0 shadow-xl border-4 border-white bg-slate-200"
+          className="w-48 h-48 md:w-64 md:h-64 rounded-2xl overflow-hidden shrink-0 shadow-2xl border-4 border-white bg-slate-200"
         >
-          {/* Placeholder for the profile picture */}
-          <div className="w-full h-full flex flex-col items-center justify-center text-slate-400 bg-slate-100">
+          <div className="w-full h-full bg-slate-100">
             <img src="/sir-2.0.png" alt={profileData.name} className="w-full h-full object-cover" />
           </div>
         </motion.div>
         
-        <div className="flex flex-col gap-4">
+        <div className="flex flex-col justify-start py-1">
           <motion.div 
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.1 }}
           >
-            <h1 className="text-4xl md:text-5xl font-bold text-slate-900 tracking-tight">{profileData.name}</h1>
-            <p className="text-xl md:text-2xl text-accent font-medium mt-2">{profileData.title}</p>
+            <h1 className="text-4xl md:text-5xl font-bold text-slate-900 tracking-tight leading-tight">{profileData.name}</h1>
+            <p className="text-xl md:text-2xl text-accent font-semibold mt-1">{profileData.title}</p>
           </motion.div>
           
           <motion.div 

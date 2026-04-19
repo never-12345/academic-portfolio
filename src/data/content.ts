@@ -41,6 +41,10 @@ export const newsItems = [
   {
     date: "2026-07",
     content: "Our paper 'Approximate approach for frequent itemsets mining on massive distributed data beyond computing capacity' was published in Expert Systems with Applications."
+  },
+  {
+    date: "2026",
+    content: "Started at Daffodil International University as an Associate Professor."
   }
 ];
 

@@ -1,7 +1,7 @@
 export const profileData = {
   name: "Dr. Mohammad Sultan Mahmud",
   title: "Associate Professor",
-  university: "Daffodil International University",
+  university: "Shenzhen Technology University | Daffodil International University",
   email: "mahmudsultan@sztu.edu.cn",
   phone: "",
   office: "Shenzhen, Guangdong, China",
@@ -19,16 +19,10 @@ export const profileData = {
 };
 
 export const studentsData = {
-  phd: [
-    { name: "John Doe", status: "Current", research: "Big Data Processing" },
-    { name: "Jane Smith", status: "Current", research: "Ensemble Learning Algorithms" }
-  ],
-  masters: [
-    { name: "Alice Johnson", status: "Current", research: "Facial Landmark Detection" },
-    { name: "Bob Williams", status: "Alumni", research: "Information Fusion" }
-  ],
+  phd: [],
+  masters: [],
   undergrad: [
-    { name: "Charlie Brown", status: "Current", research: "Computer Vision Tools" }
+    { name: "Shah Shazid Askary", status: "Current", research: "Software engineering" }
   ]
 };
 

@@ -76,6 +76,21 @@ export function Home() {
                 ORCID <ExternalLink size={16} />
               </a>
             )}
+            {profileData.dblpUrl && profileData.dblpUrl !== "#" && (
+              <a href={profileData.dblpUrl} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 px-5 py-2.5 bg-slate-100 text-slate-700 font-medium rounded-lg hover:bg-slate-200 transition-colors">
+                DBLP <ExternalLink size={16} />
+              </a>
+            )}
+            {profileData.ieeeUrl && profileData.ieeeUrl !== "#" && (
+              <a href={profileData.ieeeUrl} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 px-5 py-2.5 bg-slate-100 text-slate-700 font-medium rounded-lg hover:bg-slate-200 transition-colors">
+                IEEE Xplore <ExternalLink size={16} />
+              </a>
+            )}
+            {profileData.wosUrl && profileData.wosUrl !== "#" && (
+              <a href={profileData.wosUrl} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 px-5 py-2.5 bg-slate-100 text-slate-700 font-medium rounded-lg hover:bg-slate-200 transition-colors">
+                Web of Science <ExternalLink size={16} />
+              </a>
+            )}
           </div>
         </div>
       </motion.section>

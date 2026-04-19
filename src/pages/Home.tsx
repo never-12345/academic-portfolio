@@ -34,17 +34,16 @@ export function Home() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.2 }}
-            className="flex flex-col gap-4 text-slate-600 mt-2"
+            className="flex flex-col gap-5 text-slate-600 mt-4"
           >
-            <div className="flex flex-col gap-4">
+            <div className="flex flex-col gap-5">
               {profileData.affiliations.map((affil, idx) => (
-                <div key={idx} className="flex flex-col gap-1">
-                  <div className="flex items-center gap-2 text-slate-800 font-medium">
-                    <Landmark size={18} className="shrink-0 text-slate-500" /> 
+                <div key={idx} className="flex flex-col gap-1.5">
+                  <div className="flex items-start md:items-center gap-3 text-slate-800 font-medium text-lg border-l-4 border-accent pl-3">
                     <span>{affil.university}</span>
                   </div>
-                  <div className="flex items-center gap-2 text-sm text-slate-500 pl-1">
-                    <MapPin size={16} className="shrink-0" /> 
+                  <div className="flex items-start md:items-center gap-3 text-slate-500 pl-4">
+                    <MapPin size={18} className="shrink-0 text-slate-400 mt-0.5 md:mt-0" /> 
                     <span>{affil.address}</span>
                   </div>
                 </div>
@@ -52,9 +51,9 @@ export function Home() {
             </div>
 
             {profileData.email && (
-              <div className="flex items-center gap-2 mt-2 pt-4 border-t border-slate-100">
+              <div className="flex items-center gap-3 mt-2 pt-4 border-t border-slate-100">
                 <Mail size={18} className="text-slate-500" /> 
-                <a href={`mailto:${profileData.email}`} className="hover:text-accent font-medium transition-colors">{profileData.email}</a>
+                <a href={`mailto:${profileData.email}`} className="hover:text-accent font-medium transition-colors text-lg">{profileData.email}</a>
               </div>
             )}
           </motion.div>

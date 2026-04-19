@@ -31,20 +31,20 @@ export const studentsData = {
 
 export const newsItems = [
   {
-    date: "2025-06-19",
-    content: "Joined Shenzhen University as a Researcher."
-  },
-  {
-    date: "2026-03-29",
-    content: "Joined Shenzhen Technology University as a Faculty Member."
-  },
-  {
     date: "2026-07",
     content: "Our paper 'Approximate approach for frequent itemsets mining on massive distributed data beyond computing capacity' was published in Expert Systems with Applications."
   },
   {
     date: "2026",
     content: "Started at Daffodil International University as an Associate Professor."
+  },
+  {
+    date: "2026-03-29",
+    content: "Joined Shenzhen Technology University as a Faculty Member."
+  },
+  {
+    date: "2025-06-19",
+    content: "Joined Shenzhen University as a Researcher."
   }
 ];
 
@@ -62,8 +62,8 @@ export const mediaItems = [
 ];
 
 export const teachingTimeline = [
-  { date: "2026", content: "Joined Daffodil International University as an Associate Professor." },
   { date: "2026-07", content: "Our paper 'Approximate approach for frequent itemsets mining on massive distributed data beyond computing capacity' was published in Expert Systems with Applications." },
+  { date: "2026", content: "Joined Daffodil International University as an Associate Professor." },
   { date: "2026-03-29", content: "Joined Shenzhen Technology University as a Faculty Member." },
   { date: "2025-06-19", content: "Joined Shenzhen University as a Researcher." }
 ];

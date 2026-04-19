@@ -11,7 +11,7 @@ export function Layout({ children }: { children: ReactNode }) {
       <footer className="w-full bg-slate-900 text-slate-400 py-8 text-center text-sm mt-12">
         <div className="max-w-6xl mx-auto px-4">
           <p>© {new Date().getFullYear()} Dr. Mohammad Sultan Mahmud. All rights reserved.</p>
-          <p className="mt-2 text-slate-500">Shenzhen Technology University</p>
+          <p className="mt-2 text-slate-500">Daffodil International University</p>
         </div>
       </footer>
     </div>

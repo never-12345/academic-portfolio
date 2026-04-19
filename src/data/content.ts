@@ -1,7 +1,7 @@
 export const profileData = {
   name: "Dr. Mohammad Sultan Mahmud",
   title: "Associate Professor",
-  university: "Shenzhen Technology University",
+  university: "Daffodil International University",
   email: "mahmudsultan@sztu.edu.cn",
   phone: "",
   office: "Shenzhen, Guangdong, China",

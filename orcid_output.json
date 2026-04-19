@@ -1,0 +1,2654 @@
+{
+  "person": {
+    "last-modified-date": {
+      "value": 1764864971452
+    },
+    "name": {
+      "created-date": {
+        "value": 1460760262811
+      },
+      "last-modified-date": {
+        "value": 1724989884991
+      },
+      "given-names": {
+        "value": "Mohammad Sultan"
+      },
+      "family-name": {
+        "value": "Mahmud"
+      },
+      "credit-name": {
+        "value": "Mohammad Sultan Mahmud, Ph.D."
+      },
+      "source": null,
+      "visibility": "public",
+      "path": "0000-0002-5795-787X"
+    },
+    "other-names": {
+      "last-modified-date": null,
+      "other-name": [],
+      "path": "/0000-0002-5795-787X/other-names"
+    },
+    "biography": null,
+    "researcher-urls": {
+      "last-modified-date": {
+        "value": 1764864971452
+      },
+      "researcher-url": [
+        {
+          "created-date": {
+            "value": 1636267906563
+          },
+          "last-modified-date": {
+            "value": 1726248407907
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0000-0002-5795-787X",
+              "path": "0000-0002-5795-787X",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Mohammad Sultan Mahmud, Ph.D."
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "url-name": "Researchgate",
+          "url": {
+            "value": "https://www.researchgate.net/profile/Mohammad-Mahmud-13"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-5795-787X/researcher-urls/2786020",
+          "put-code": 2786020,
+          "display-index": 9
+        },
+        {
+          "created-date": {
+            "value": 1636268014632
+          },
+          "last-modified-date": {
+            "value": 1726248407907
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0000-0002-5795-787X",
+              "path": "0000-0002-5795-787X",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Mohammad Sultan Mahmud, Ph.D."
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "url-name": "GoogleScholar",
+          "url": {
+            "value": "https://scholar.google.com/citations?user=EARbYYsAAAAJ&hl=en"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-5795-787X/researcher-urls/2786021",
+          "put-code": 2786021,
+          "display-index": 8
+        },
+        {
+          "created-date": {
+            "value": 1636268084522
+          },
+          "last-modified-date": {
+            "value": 1726248407907
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0000-0002-5795-787X",
+              "path": "0000-0002-5795-787X",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Mohammad Sultan Mahmud, Ph.D."
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "url-name": "dblp",
+          "url": {
+            "value": "http://dblp.org/pers/hd/m/Mahmud:Mohammad_Sultan"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-5795-787X/researcher-urls/2786022",
+          "put-code": 2786022,
+          "display-index": 7
+        },
+        {
+          "created-date": {
+            "value": 1636268495163
+          },
+          "last-modified-date": {
+            "value": 1764864971452
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0000-0002-5795-787X",
+              "path": "0000-0002-5795-787X",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Mohammad Sultan Mahmud, Ph.D."
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "url-name": "Linkedin",
+          "url": {
+            "value": "http://www.linkedin.com/in/sultan-mahmud-phd"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-5795-787X/researcher-urls/2786024",
+          "put-code": 2786024,
+          "display-index": 6
+        },
+        {
+          "created-date": {
+            "value": 1680023029515
+          },
+          "last-modified-date": {
+            "value": 1726248407907
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0000-0002-5795-787X",
+              "path": "0000-0002-5795-787X",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Mohammad Sultan Mahmud, Ph.D."
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "url-name": "semanticscholar",
+          "url": {
+            "value": "https://www.semanticscholar.org/author/M.S.-Mahmud/46933871"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-5795-787X/researcher-urls/3742894",
+          "put-code": 3742894,
+          "display-index": 5
+        },
+        {
+          "created-date": {
+            "value": 1683683534823
+          },
+          "last-modified-date": {
+            "value": 1726248407907
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0000-0002-5795-787X",
+              "path": "0000-0002-5795-787X",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Mohammad Sultan Mahmud, Ph.D."
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "url-name": "webofscience",
+          "url": {
+            "value": "https://www.webofscience.com/wos/author/record/Q-6317-2017"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-5795-787X/researcher-urls/3825663",
+          "put-code": 3825663,
+          "display-index": 4
+        },
+        {
+          "created-date": {
+            "value": 1726107610462
+          },
+          "last-modified-date": {
+            "value": 1726248407907
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0000-0002-5795-787X",
+              "path": "0000-0002-5795-787X",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Mohammad Sultan Mahmud, Ph.D."
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "url-name": "aminer",
+          "url": {
+            "value": "https://www.aminer.cn/profile/5624e27b45ce1e5964b05c07"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-5795-787X/researcher-urls/4869632",
+          "put-code": 4869632,
+          "display-index": 3
+        },
+        {
+          "created-date": {
+            "value": 1726248196514
+          },
+          "last-modified-date": {
+            "value": 1726248407907
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0000-0002-5795-787X",
+              "path": "0000-0002-5795-787X",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Mohammad Sultan Mahmud, Ph.D."
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "url-name": "IEEE",
+          "url": {
+            "value": "https://ieeexplore.ieee.org/author/37086385483"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-5795-787X/researcher-urls/4873828",
+          "put-code": 4873828,
+          "display-index": 2
+        },
+        {
+          "created-date": {
+            "value": 1726248407897
+          },
+          "last-modified-date": {
+            "value": 1726248407897
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0000-0002-5795-787X",
+              "path": "0000-0002-5795-787X",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Mohammad Sultan Mahmud, Ph.D."
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "url-name": "Scopus",
+          "url": {
+            "value": "https://scopus.com/authid/detail.uri?authorId=57204977903"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-5795-787X/researcher-urls/4873830",
+          "put-code": 4873830,
+          "display-index": 1
+        }
+      ],
+      "path": "/0000-0002-5795-787X/researcher-urls"
+    },
+    "emails": {
+      "last-modified-date": null,
+      "email": [],
+      "path": "/0000-0002-5795-787X/email"
+    },
+    "addresses": {
+      "last-modified-date": {
+        "value": 1724986990410
+      },
+      "address": [
+        {
+          "created-date": {
+            "value": 1724986990410
+          },
+          "last-modified-date": {
+            "value": 1724986990410
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0000-0002-5795-787X",
+              "path": "0000-0002-5795-787X",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Mohammad Sultan Mahmud, Ph.D."
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "country": {
+            "value": "BD"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-5795-787X/address/3478572",
+          "put-code": 3478572,
+          "display-index": 1
+        }
+      ],
+      "path": "/0000-0002-5795-787X/address"
+    },
+    "keywords": {
+      "last-modified-date": {
+        "value": 1724985640788
+      },
+      "keyword": [
+        {
+          "created-date": {
+            "value": 1637660997665
+          },
+          "last-modified-date": {
+            "value": 1724985640788
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0000-0002-5795-787X",
+              "path": "0000-0002-5795-787X",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Mohammad Sultan Mahmud, Ph.D."
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "content": "Big data anlysis",
+          "visibility": "public",
+          "path": "/0000-0002-5795-787X/keywords/2122801",
+          "put-code": 2122801,
+          "display-index": 7
+        },
+        {
+          "created-date": {
+            "value": 1637660997663
+          },
+          "last-modified-date": {
+            "value": 1724985640788
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0000-0002-5795-787X",
+              "path": "0000-0002-5795-787X",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Mohammad Sultan Mahmud, Ph.D."
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "content": "Data mining and machine learning",
+          "visibility": "public",
+          "path": "/0000-0002-5795-787X/keywords/2122800",
+          "put-code": 2122800,
+          "display-index": 6
+        },
+        {
+          "created-date": {
+            "value": 1637660997662
+          },
+          "last-modified-date": {
+            "value": 1724985640788
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0000-0002-5795-787X",
+              "path": "0000-0002-5795-787X",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Mohammad Sultan Mahmud, Ph.D."
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "content": "Computational intelligence",
+          "visibility": "public",
+          "path": "/0000-0002-5795-787X/keywords/2122799",
+          "put-code": 2122799,
+          "display-index": 5
+        },
+        {
+          "created-date": {
+            "value": 1637660997659
+          },
+          "last-modified-date": {
+            "value": 1724985640788
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0000-0002-5795-787X",
+              "path": "0000-0002-5795-787X",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Mohammad Sultan Mahmud, Ph.D."
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "content": "Predictive modeling",
+          "visibility": "public",
+          "path": "/0000-0002-5795-787X/keywords/2122798",
+          "put-code": 2122798,
+          "display-index": 4
+        },
+        {
+          "created-date": {
+            "value": 1718201350581
+          },
+          "last-modified-date": {
+            "value": 1724985640788
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0000-0002-5795-787X",
+              "path": "0000-0002-5795-787X",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Mohammad Sultan Mahmud, Ph.D."
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "content": "Distributed and parallel computing",
+          "visibility": "public",
+          "path": "/0000-0002-5795-787X/keywords/3956337",
+          "put-code": 3956337,
+          "display-index": 3
+        },
+        {
+          "created-date": {
+            "value": 1724985640780
+          },
+          "last-modified-date": {
+            "value": 1724985640780
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0000-0002-5795-787X",
+              "path": "0000-0002-5795-787X",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Mohammad Sultan Mahmud, Ph.D."
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "content": "Approximate computing",
+          "visibility": "public",
+          "path": "/0000-0002-5795-787X/keywords/4098119",
+          "put-code": 4098119,
+          "display-index": 2
+        },
+        {
+          "created-date": {
+            "value": 1724985640778
+          },
+          "last-modified-date": {
+            "value": 1724985640778
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0000-0002-5795-787X",
+              "path": "0000-0002-5795-787X",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Mohammad Sultan Mahmud, Ph.D."
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "content": "Ensemble learning",
+          "visibility": "public",
+          "path": "/0000-0002-5795-787X/keywords/4098118",
+          "put-code": 4098118,
+          "display-index": 1
+        }
+      ],
+      "path": "/0000-0002-5795-787X/keywords"
+    },
+    "external-identifiers": {
+      "last-modified-date": null,
+      "external-identifier": [],
+      "path": "/0000-0002-5795-787X/external-identifiers"
+    },
+    "path": "/0000-0002-5795-787X/person"
+  },
+  "worksCount": 27,
+  "works": [
+    {
+      "put-code": 208911232,
+      "created-date": {
+        "value": 1773871060538
+      },
+      "last-modified-date": {
+        "value": 1773871060538
+      },
+      "source": {
+        "source-orcid": null,
+        "source-client-id": {
+          "uri": "https://orcid.org/client/0000-0001-9884-1913",
+          "path": "0000-0001-9884-1913",
+          "host": "orcid.org"
+        },
+        "source-name": {
+          "value": "Crossref"
+        },
+        "assertion-origin-orcid": null,
+        "assertion-origin-client-id": null,
+        "assertion-origin-name": null
+      },
+      "title": {
+        "title": {
+          "value": "Approximate approach for frequent itemsets mining on massive distributed data beyond computing capacity"
+        },
+        "subtitle": null,
+        "translated-title": null
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1016/j.eswa.2026.132043",
+            "external-id-normalized": {
+              "value": "10.1016/j.eswa.2026.132043",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1016/j.eswa.2026.132043"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "url": {
+        "value": "https://doi.org/10.1016/j.eswa.2026.132043"
+      },
+      "type": "journal-article",
+      "publication-date": {
+        "year": {
+          "value": "2026"
+        },
+        "month": {
+          "value": "07"
+        },
+        "day": null
+      },
+      "journal-title": {
+        "value": "Expert Systems with Applications"
+      },
+      "visibility": "public",
+      "path": "/0000-0002-5795-787X/work/208911232",
+      "display-index": "1"
+    },
+    {
+      "put-code": 211932089,
+      "created-date": {
+        "value": 1776359780024
+      },
+      "last-modified-date": {
+        "value": 1776359780024
+      },
+      "source": {
+        "source-orcid": null,
+        "source-client-id": {
+          "uri": "https://orcid.org/client/0000-0001-9884-1913",
+          "path": "0000-0001-9884-1913",
+          "host": "orcid.org"
+        },
+        "source-name": {
+          "value": "Crossref"
+        },
+        "assertion-origin-orcid": null,
+        "assertion-origin-client-id": null,
+        "assertion-origin-name": null
+      },
+      "title": {
+        "title": {
+          "value": "A context-aware dropout-based occlusion-adaptive network for robust facial landmark and emotion detection"
+        },
+        "subtitle": null,
+        "translated-title": null
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1007/s44443-026-00705-7",
+            "external-id-normalized": {
+              "value": "10.1007/s44443-026-00705-7",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1007/s44443-026-00705-7"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "url": {
+        "value": "https://doi.org/10.1007/s44443-026-00705-7"
+      },
+      "type": "journal-article",
+      "publication-date": {
+        "year": {
+          "value": "2026"
+        },
+        "month": {
+          "value": "04"
+        },
+        "day": {
+          "value": "16"
+        }
+      },
+      "journal-title": {
+        "value": "Journal of King Saud University Computer and Information Sciences"
+      },
+      "visibility": "public",
+      "path": "/0000-0002-5795-787X/work/211932089",
+      "display-index": "1"
+    },
+    {
+      "put-code": 194059882,
+      "created-date": {
+        "value": 1760310316538
+      },
+      "last-modified-date": {
+        "value": 1760310316538
+      },
+      "source": {
+        "source-orcid": null,
+        "source-client-id": {
+          "uri": "https://orcid.org/client/0000-0001-9884-1913",
+          "path": "0000-0001-9884-1913",
+          "host": "orcid.org"
+        },
+        "source-name": {
+          "value": "Crossref"
+        },
+        "assertion-origin-orcid": null,
+        "assertion-origin-client-id": null,
+        "assertion-origin-name": null
+      },
+      "title": {
+        "title": {
+          "value": "Enhancing query-based segmentation models with full-pixel integration for curvilinear object segmentation"
+        },
+        "subtitle": null,
+        "translated-title": null
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1016/j.inffus.2025.103793",
+            "external-id-normalized": {
+              "value": "10.1016/j.inffus.2025.103793",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1016/j.inffus.2025.103793"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "url": {
+        "value": "https://doi.org/10.1016/j.inffus.2025.103793"
+      },
+      "type": "journal-article",
+      "publication-date": {
+        "year": {
+          "value": "2026"
+        },
+        "month": {
+          "value": "03"
+        },
+        "day": null
+      },
+      "journal-title": {
+        "value": "Information Fusion"
+      },
+      "visibility": "public",
+      "path": "/0000-0002-5795-787X/work/194059882",
+      "display-index": "1"
+    },
+    {
+      "put-code": 210872615,
+      "created-date": {
+        "value": 1775515510002
+      },
+      "last-modified-date": {
+        "value": 1775515510002
+      },
+      "source": {
+        "source-orcid": null,
+        "source-client-id": {
+          "uri": "https://orcid.org/client/0000-0001-9884-1913",
+          "path": "0000-0001-9884-1913",
+          "host": "orcid.org"
+        },
+        "source-name": {
+          "value": "Crossref"
+        },
+        "assertion-origin-orcid": null,
+        "assertion-origin-client-id": null,
+        "assertion-origin-name": null
+      },
+      "title": {
+        "title": {
+          "value": "ADODN: A Dropout-Based Occlusion-Aware Deep Network for Facial Landmark Detection"
+        },
+        "subtitle": null,
+        "translated-title": null
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1109/ACCESS.2026.3681267",
+            "external-id-normalized": {
+              "value": "10.1109/access.2026.3681267",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1109/ACCESS.2026.3681267"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "url": {
+        "value": "https://doi.org/10.1109/ACCESS.2026.3681267"
+      },
+      "type": "journal-article",
+      "publication-date": {
+        "year": {
+          "value": "2026"
+        },
+        "month": null,
+        "day": null
+      },
+      "journal-title": {
+        "value": "IEEE Access"
+      },
+      "visibility": "public",
+      "path": "/0000-0002-5795-787X/work/210872615",
+      "display-index": "1"
+    },
+    {
+      "put-code": 196767420,
+      "created-date": {
+        "value": 1762986391217
+      },
+      "last-modified-date": {
+        "value": 1762986391217
+      },
+      "source": {
+        "source-orcid": null,
+        "source-client-id": {
+          "uri": "https://orcid.org/client/0000-0001-9884-1913",
+          "path": "0000-0001-9884-1913",
+          "host": "orcid.org"
+        },
+        "source-name": {
+          "value": "Crossref"
+        },
+        "assertion-origin-orcid": null,
+        "assertion-origin-client-id": null,
+        "assertion-origin-name": null
+      },
+      "title": {
+        "title": {
+          "value": "Determination of the Number of Clusters in High-Dimensional Data With Subspace Clusters"
+        },
+        "subtitle": null,
+        "translated-title": null
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1109/TBDATA.2025.3588027",
+            "external-id-normalized": {
+              "value": "10.1109/tbdata.2025.3588027",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1109/TBDATA.2025.3588027"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "url": {
+        "value": "https://doi.org/10.1109/TBDATA.2025.3588027"
+      },
+      "type": "journal-article",
+      "publication-date": {
+        "year": {
+          "value": "2025"
+        },
+        "month": {
+          "value": "12"
+        },
+        "day": null
+      },
+      "journal-title": {
+        "value": "IEEE Transactions on Big Data"
+      },
+      "visibility": "public",
+      "path": "/0000-0002-5795-787X/work/196767420",
+      "display-index": "1"
+    },
+    {
+      "put-code": 196528666,
+      "created-date": {
+        "value": 1762796289090
+      },
+      "last-modified-date": {
+        "value": 1762796289090
+      },
+      "source": {
+        "source-orcid": {
+          "uri": "https://orcid.org/0000-0002-5795-787X",
+          "path": "0000-0002-5795-787X",
+          "host": "orcid.org"
+        },
+        "source-client-id": null,
+        "source-name": {
+          "value": "Mohammad Sultan Mahmud, Ph.D."
+        },
+        "assertion-origin-orcid": null,
+        "assertion-origin-client-id": null,
+        "assertion-origin-name": null
+      },
+      "title": {
+        "title": {
+          "value": "Guest Editorial: Mixture of Experts and Ensemble Learning for Big Data"
+        },
+        "subtitle": null,
+        "translated-title": null
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1016/j.inffus.2025.103918",
+            "external-id-normalized": {
+              "value": "10.1016/j.inffus.2025.103918",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1016/j.inffus.2025.103918"
+            },
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "issn",
+            "external-id-value": "1566-2535",
+            "external-id-normalized": {
+              "value": "1566-2535",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://portal.issn.org/resource/ISSN/1566-2535"
+            },
+            "external-id-relationship": "part-of"
+          }
+        ]
+      },
+      "url": {
+        "value": "http://dx.doi.org/10.1016/j.inffus.2025.103918"
+      },
+      "type": "journal-article",
+      "publication-date": {
+        "year": {
+          "value": "2025"
+        },
+        "month": {
+          "value": "11"
+        },
+        "day": null
+      },
+      "journal-title": {
+        "value": "Information Fusion"
+      },
+      "visibility": "public",
+      "path": "/0000-0002-5795-787X/work/196528666",
+      "display-index": "0"
+    },
+    {
+      "put-code": 200387819,
+      "created-date": {
+        "value": 1766290418142
+      },
+      "last-modified-date": {
+        "value": 1766290418142
+      },
+      "source": {
+        "source-orcid": {
+          "uri": "https://orcid.org/0000-0002-5795-787X",
+          "path": "0000-0002-5795-787X",
+          "host": "orcid.org"
+        },
+        "source-client-id": null,
+        "source-name": {
+          "value": "Mohammad Sultan Mahmud, Ph.D."
+        },
+        "assertion-origin-orcid": null,
+        "assertion-origin-client-id": null,
+        "assertion-origin-name": null
+      },
+      "title": {
+        "title": {
+          "value": "Advancements in Speech Processing for Human-Computer Interaction"
+        },
+        "subtitle": null,
+        "translated-title": null
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.4018/979-8-3373-3048-8",
+            "external-id-normalized": {
+              "value": "10.4018/979-8-3373-3048-8",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.4018/979-8-3373-3048-8"
+            },
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "isbn",
+            "external-id-value": "9798337330488",
+            "external-id-normalized": {
+              "value": "9798337330488",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://www.worldcat.org/isbn/9798337330488"
+            },
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "isbn",
+            "external-id-value": "9798337330501",
+            "external-id-normalized": {
+              "value": "9798337330501",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://www.worldcat.org/isbn/9798337330501"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "url": {
+        "value": "http://dx.doi.org/10.4018/979-8-3373-3048-8"
+      },
+      "type": "book",
+      "publication-date": {
+        "year": {
+          "value": "2025"
+        },
+        "month": {
+          "value": "09"
+        },
+        "day": {
+          "value": "26"
+        }
+      },
+      "journal-title": {
+        "value": "IGI Global Scientific Publishing"
+      },
+      "visibility": "public",
+      "path": "/0000-0002-5795-787X/work/200387819",
+      "display-index": "0"
+    },
+    {
+      "put-code": 174742417,
+      "created-date": {
+        "value": 1735631933212
+      },
+      "last-modified-date": {
+        "value": 1760291015792
+      },
+      "source": {
+        "source-orcid": null,
+        "source-client-id": {
+          "uri": "https://orcid.org/client/0000-0001-9884-1913",
+          "path": "0000-0001-9884-1913",
+          "host": "orcid.org"
+        },
+        "source-name": {
+          "value": "Crossref"
+        },
+        "assertion-origin-orcid": null,
+        "assertion-origin-client-id": null,
+        "assertion-origin-name": null
+      },
+      "title": {
+        "title": {
+          "value": "RSPCA: Random Sample Partition and Clustering Approximation for ensemble learning of big data"
+        },
+        "subtitle": null,
+        "translated-title": null
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1016/j.patcog.2024.111321",
+            "external-id-normalized": {
+              "value": "10.1016/j.patcog.2024.111321",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1016/j.patcog.2024.111321"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "url": {
+        "value": "https://doi.org/10.1016/j.patcog.2024.111321"
+      },
+      "type": "journal-article",
+      "publication-date": {
+        "year": {
+          "value": "2025"
+        },
+        "month": {
+          "value": "05"
+        },
+        "day": null
+      },
+      "journal-title": {
+        "value": "Pattern Recognition"
+      },
+      "visibility": "public",
+      "path": "/0000-0002-5795-787X/work/174742417",
+      "display-index": "1"
+    },
+    {
+      "put-code": 165131626,
+      "created-date": {
+        "value": 1723083371943
+      },
+      "last-modified-date": {
+        "value": 1723549799977
+      },
+      "source": {
+        "source-orcid": null,
+        "source-client-id": {
+          "uri": "https://orcid.org/client/0000-0001-9884-1913",
+          "path": "0000-0001-9884-1913",
+          "host": "orcid.org"
+        },
+        "source-name": {
+          "value": "Crossref"
+        },
+        "assertion-origin-orcid": null,
+        "assertion-origin-client-id": null,
+        "assertion-origin-name": null
+      },
+      "title": {
+        "title": {
+          "value": "Spectral ensemble clustering with doubly stochastic co-association matrix"
+        },
+        "subtitle": null,
+        "translated-title": null
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1016/j.ins.2024.121314",
+            "external-id-normalized": {
+              "value": "10.1016/j.ins.2024.121314",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1016/j.ins.2024.121314"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "url": {
+        "value": "https://doi.org/10.1016/j.ins.2024.121314"
+      },
+      "type": "journal-article",
+      "publication-date": {
+        "year": {
+          "value": "2025"
+        },
+        "month": {
+          "value": "01"
+        },
+        "day": null
+      },
+      "journal-title": {
+        "value": "Information Sciences"
+      },
+      "visibility": "public",
+      "path": "/0000-0002-5795-787X/work/165131626",
+      "display-index": "1"
+    },
+    {
+      "put-code": 198715348,
+      "created-date": {
+        "value": 1764835268561
+      },
+      "last-modified-date": {
+        "value": 1764835268561
+      },
+      "source": {
+        "source-orcid": {
+          "uri": "https://orcid.org/0000-0002-5795-787X",
+          "path": "0000-0002-5795-787X",
+          "host": "orcid.org"
+        },
+        "source-client-id": null,
+        "source-name": {
+          "value": "Mohammad Sultan Mahmud, Ph.D."
+        },
+        "assertion-origin-orcid": null,
+        "assertion-origin-client-id": null,
+        "assertion-origin-name": null
+      },
+      "title": {
+        "title": {
+          "value": "IoMT-blockchain-based secured remote patient monitoring framework for neuro-stimulation devices"
+        },
+        "subtitle": null,
+        "translated-title": null
+      },
+      "external-ids": {
+        "external-id": []
+      },
+      "url": {
+        "value": "https://www.taylorfrancis.com/chapters/edit/10.1201/9781003497585-12/iomt-blockchain-based-secured-remote-patient-monitoring-framework-neuro-stimulation-devices-md-sakib-ullah-sourav-mohammad-sultan-mahmud-md-simul-hasan-talukder-rejwan-bin-sulaiman?context=ubx&refId=13f32299-98cc-4686-b04d-bf55428f646d"
+      },
+      "type": "book-chapter",
+      "publication-date": {
+        "year": {
+          "value": "2024"
+        },
+        "month": {
+          "value": "12"
+        },
+        "day": {
+          "value": "30"
+        }
+      },
+      "journal-title": {
+        "value": " Artificial Intelligence for Blockchain and Cybersecurity Powered IoT Applications"
+      },
+      "visibility": "public",
+      "path": "/0000-0002-5795-787X/work/198715348",
+      "display-index": "0"
+    },
+    {
+      "put-code": 167291673,
+      "created-date": {
+        "value": 1726106828008
+      },
+      "last-modified-date": {
+        "value": 1726106828008
+      },
+      "source": {
+        "source-orcid": {
+          "uri": "https://orcid.org/0000-0002-5795-787X",
+          "path": "0000-0002-5795-787X",
+          "host": "orcid.org"
+        },
+        "source-client-id": null,
+        "source-name": {
+          "value": "Mohammad Sultan Mahmud, Ph.D."
+        },
+        "assertion-origin-orcid": null,
+        "assertion-origin-client-id": null,
+        "assertion-origin-name": null
+      },
+      "title": {
+        "title": {
+          "value": "Random Sampling Method of Large-Scale Graph Data Classification"
+        },
+        "subtitle": null,
+        "translated-title": null
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.17576/jkukm-2024-36(2)-14",
+            "external-id-normalized": {
+              "value": "10.17576/jkukm-2024-36(2)-14",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.17576/jkukm-2024-36(2)-14"
+            },
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "issn",
+            "external-id-value": "2289-7526",
+            "external-id-normalized": {
+              "value": "2289-7526",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://portal.issn.org/resource/ISSN/2289-7526"
+            },
+            "external-id-relationship": "part-of"
+          }
+        ]
+      },
+      "url": {
+        "value": "http://dx.doi.org/10.17576/jkukm-2024-36(2)-14"
+      },
+      "type": "journal-article",
+      "publication-date": {
+        "year": {
+          "value": "2024"
+        },
+        "month": {
+          "value": "03"
+        },
+        "day": {
+          "value": "30"
+        }
+      },
+      "journal-title": {
+        "value": "Jurnal Kejuruteraan"
+      },
+      "visibility": "public",
+      "path": "/0000-0002-5795-787X/work/167291673",
+      "display-index": "0"
+    },
+    {
+      "put-code": 142015206,
+      "created-date": {
+        "value": 1694237411202
+      },
+      "last-modified-date": {
+        "value": 1760291015792
+      },
+      "source": {
+        "source-orcid": {
+          "uri": "https://orcid.org/0000-0002-5795-787X",
+          "path": "0000-0002-5795-787X",
+          "host": "orcid.org"
+        },
+        "source-client-id": null,
+        "source-name": {
+          "value": "Mohammad Sultan Mahmud, Ph.D."
+        },
+        "assertion-origin-orcid": null,
+        "assertion-origin-client-id": null,
+        "assertion-origin-name": null
+      },
+      "title": {
+        "title": {
+          "value": "Clustering approximation via a fusion of multiple random samples"
+        },
+        "subtitle": null,
+        "translated-title": null
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1016/j.inffus.2023.101986",
+            "external-id-normalized": {
+              "value": "10.1016/j.inffus.2023.101986",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1016/j.inffus.2023.101986"
+            },
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "issn",
+            "external-id-value": "1566-2535",
+            "external-id-normalized": {
+              "value": "1566-2535",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://portal.issn.org/resource/ISSN/1566-2535"
+            },
+            "external-id-relationship": "part-of"
+          }
+        ]
+      },
+      "url": {
+        "value": "http://dx.doi.org/10.1016/j.inffus.2023.101986"
+      },
+      "type": "journal-article",
+      "publication-date": {
+        "year": {
+          "value": "2024"
+        },
+        "month": {
+          "value": "01"
+        },
+        "day": null
+      },
+      "journal-title": {
+        "value": "Information Fusion"
+      },
+      "visibility": "public",
+      "path": "/0000-0002-5795-787X/work/142015206",
+      "display-index": "1"
+    },
+    {
+      "put-code": 132351640,
+      "created-date": {
+        "value": 1680582206687
+      },
+      "last-modified-date": {
+        "value": 1760291015792
+      },
+      "source": {
+        "source-orcid": {
+          "uri": "https://orcid.org/0000-0002-5795-787X",
+          "path": "0000-0002-5795-787X",
+          "host": "orcid.org"
+        },
+        "source-client-id": null,
+        "source-name": {
+          "value": "Mohammad Sultan Mahmud, Ph.D."
+        },
+        "assertion-origin-orcid": null,
+        "assertion-origin-client-id": null,
+        "assertion-origin-name": null
+      },
+      "title": {
+        "title": {
+          "value": "An ensemble method for estimating the number of clusters in a big data set using multiple random samples"
+        },
+        "subtitle": null,
+        "translated-title": null
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1186/s40537-023-00709-4",
+            "external-id-normalized": {
+              "value": "10.1186/s40537-023-00709-4",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1186/s40537-023-00709-4"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "url": {
+        "value": "https://journalofbigdata.springeropen.com/articles/10.1186/s40537-023-00709-4"
+      },
+      "type": "journal-article",
+      "publication-date": {
+        "year": {
+          "value": "2023"
+        },
+        "month": {
+          "value": "04"
+        },
+        "day": {
+          "value": "01"
+        }
+      },
+      "journal-title": {
+        "value": "Journal of Big Data"
+      },
+      "visibility": "public",
+      "path": "/0000-0002-5795-787X/work/132351640",
+      "display-index": "1"
+    },
+    {
+      "put-code": 130609869,
+      "created-date": {
+        "value": 1678515005224
+      },
+      "last-modified-date": {
+        "value": 1760291015792
+      },
+      "source": {
+        "source-orcid": null,
+        "source-client-id": {
+          "uri": "https://orcid.org/client/0000-0001-9884-1913",
+          "path": "0000-0001-9884-1913",
+          "host": "orcid.org"
+        },
+        "source-name": {
+          "value": "Crossref"
+        },
+        "assertion-origin-orcid": null,
+        "assertion-origin-client-id": null,
+        "assertion-origin-name": null
+      },
+      "title": {
+        "title": {
+          "value": "Approximate Clustering Ensemble Method for Big Data"
+        },
+        "subtitle": null,
+        "translated-title": null
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1109/TBDATA.2023.3255003",
+            "external-id-normalized": {
+              "value": "10.1109/tbdata.2023.3255003",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1109/TBDATA.2023.3255003"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "url": {
+        "value": "https://doi.org/10.1109/TBDATA.2023.3255003"
+      },
+      "type": "journal-article",
+      "publication-date": {
+        "year": {
+          "value": "2023"
+        },
+        "month": null,
+        "day": null
+      },
+      "journal-title": {
+        "value": "IEEE Transactions on Big Data"
+      },
+      "visibility": "public",
+      "path": "/0000-0002-5795-787X/work/130609869",
+      "display-index": "0"
+    },
+    {
+      "put-code": 110181112,
+      "created-date": {
+        "value": 1647885197939
+      },
+      "last-modified-date": {
+        "value": 1647885197939
+      },
+      "source": {
+        "source-orcid": {
+          "uri": "https://orcid.org/0000-0002-5795-787X",
+          "path": "0000-0002-5795-787X",
+          "host": "orcid.org"
+        },
+        "source-client-id": null,
+        "source-name": {
+          "value": "Mohammad Sultan Mahmud, Ph.D."
+        },
+        "assertion-origin-orcid": null,
+        "assertion-origin-client-id": null,
+        "assertion-origin-name": null
+      },
+      "title": {
+        "title": {
+          "value": "A review of optimization methods for computation offloading in edge computing networks"
+        },
+        "subtitle": null,
+        "translated-title": null
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1016/j.dcan.2022.03.003",
+            "external-id-normalized": {
+              "value": "10.1016/j.dcan.2022.03.003",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1016/j.dcan.2022.03.003"
+            },
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "issn",
+            "external-id-value": "2352-8648",
+            "external-id-normalized": {
+              "value": "2352-8648",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://portal.issn.org/resource/ISSN/2352-8648"
+            },
+            "external-id-relationship": "part-of"
+          }
+        ]
+      },
+      "url": {
+        "value": "http://dx.doi.org/10.1016/j.dcan.2022.03.003"
+      },
+      "type": "journal-article",
+      "publication-date": {
+        "year": {
+          "value": "2022"
+        },
+        "month": {
+          "value": "03"
+        },
+        "day": null
+      },
+      "journal-title": {
+        "value": "Digital Communications and Networks"
+      },
+      "visibility": "public",
+      "path": "/0000-0002-5795-787X/work/110181112",
+      "display-index": "1"
+    },
+    {
+      "put-code": 104648275,
+      "created-date": {
+        "value": 1639383318554
+      },
+      "last-modified-date": {
+        "value": 1639553564573
+      },
+      "source": {
+        "source-orcid": {
+          "uri": "https://orcid.org/0000-0002-5795-787X",
+          "path": "0000-0002-5795-787X",
+          "host": "orcid.org"
+        },
+        "source-client-id": null,
+        "source-name": {
+          "value": "Mohammad Sultan Mahmud, Ph.D."
+        },
+        "assertion-origin-orcid": null,
+        "assertion-origin-client-id": null,
+        "assertion-origin-name": null
+      },
+      "title": {
+        "title": {
+          "value": "Application of soft-computing for time series water-level prediction in Jamuna river"
+        },
+        "subtitle": null,
+        "translated-title": null
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.6977/IJoSI.202112_6(6).0003",
+            "external-id-normalized": {
+              "value": "10.6977/ijosi.202112_6(6).0003",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "url": {
+        "value": "https://www.ijosi.org/index.php/IJOSI/article/view/395"
+      },
+      "type": "journal-article",
+      "publication-date": {
+        "year": {
+          "value": "2021"
+        },
+        "month": {
+          "value": "12"
+        },
+        "day": {
+          "value": "11"
+        }
+      },
+      "journal-title": {
+        "value": "International Journal of Systematic Innovation"
+      },
+      "visibility": "public",
+      "path": "/0000-0002-5795-787X/work/104648275",
+      "display-index": "1"
+    },
+    {
+      "put-code": 106578096,
+      "created-date": {
+        "value": 1642580722585
+      },
+      "last-modified-date": {
+        "value": 1642580722585
+      },
+      "source": {
+        "source-orcid": {
+          "uri": "https://orcid.org/0000-0002-5795-787X",
+          "path": "0000-0002-5795-787X",
+          "host": "orcid.org"
+        },
+        "source-client-id": null,
+        "source-name": {
+          "value": "Mohammad Sultan Mahmud, Ph.D."
+        },
+        "assertion-origin-orcid": null,
+        "assertion-origin-client-id": null,
+        "assertion-origin-name": null
+      },
+      "title": {
+        "title": {
+          "value": "RENFIS-MA: A Recurrent Neuro-Fuzzy Inference System for Time Series Water Level Prediction"
+        },
+        "subtitle": null,
+        "translated-title": null
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1109/icisct52966.2021.9670019",
+            "external-id-normalized": {
+              "value": "10.1109/icisct52966.2021.9670019",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1109/icisct52966.2021.9670019"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "url": {
+        "value": "http://dx.doi.org/10.1109/icisct52966.2021.9670019"
+      },
+      "type": "conference-paper",
+      "publication-date": {
+        "year": {
+          "value": "2021"
+        },
+        "month": {
+          "value": "11"
+        },
+        "day": {
+          "value": "03"
+        }
+      },
+      "journal-title": {
+        "value": "2021 International Conference on Information Science and Communications Technologies (ICISCT)"
+      },
+      "visibility": "public",
+      "path": "/0000-0002-5795-787X/work/106578096",
+      "display-index": "1"
+    },
+    {
+      "put-code": 102719041,
+      "created-date": {
+        "value": 1636269189008
+      },
+      "last-modified-date": {
+        "value": 1680582518113
+      },
+      "source": {
+        "source-orcid": {
+          "uri": "https://orcid.org/0000-0002-5795-787X",
+          "path": "0000-0002-5795-787X",
+          "host": "orcid.org"
+        },
+        "source-client-id": null,
+        "source-name": {
+          "value": "Mohammad Sultan Mahmud, Ph.D."
+        },
+        "assertion-origin-orcid": null,
+        "assertion-origin-client-id": null,
+        "assertion-origin-name": null
+      },
+      "title": {
+        "title": {
+          "value": "Unsupervised Adaptation for High-Dimensional with Limited-Sample Data Classification Using Variational Autoencoder"
+        },
+        "subtitle": null,
+        "translated-title": null
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.31577/cai_2021_1_1",
+            "external-id-normalized": {
+              "value": "10.31577/cai_2021_1_1",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.31577/cai_2021_1_1"
+            },
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "issn",
+            "external-id-value": "2585-8807",
+            "external-id-normalized": {
+              "value": "2585-8807",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://portal.issn.org/resource/ISSN/2585-8807"
+            },
+            "external-id-relationship": "part-of"
+          }
+        ]
+      },
+      "url": {
+        "value": "http://dx.doi.org/10.31577/cai_2021_1_1"
+      },
+      "type": "journal-article",
+      "publication-date": {
+        "year": {
+          "value": "2021"
+        },
+        "month": null,
+        "day": null
+      },
+      "journal-title": {
+        "value": "Computing and Informatics"
+      },
+      "visibility": "public",
+      "path": "/0000-0002-5795-787X/work/102719041",
+      "display-index": "1"
+    },
+    {
+      "put-code": 102718920,
+      "created-date": {
+        "value": 1636268673940
+      },
+      "last-modified-date": {
+        "value": 1680582651548
+      },
+      "source": {
+        "source-orcid": {
+          "uri": "https://orcid.org/0000-0002-5795-787X",
+          "path": "0000-0002-5795-787X",
+          "host": "orcid.org"
+        },
+        "source-client-id": null,
+        "source-name": {
+          "value": "Mohammad Sultan Mahmud, Ph.D."
+        },
+        "assertion-origin-orcid": null,
+        "assertion-origin-client-id": null,
+        "assertion-origin-name": null
+      },
+      "title": {
+        "title": {
+          "value": "A survey of data partitioning and sampling methods to support big data analysis"
+        },
+        "subtitle": null,
+        "translated-title": null
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.26599/bdma.2019.9020015",
+            "external-id-normalized": {
+              "value": "10.26599/bdma.2019.9020015",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.26599/bdma.2019.9020015"
+            },
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "issn",
+            "external-id-value": "2096-0654",
+            "external-id-normalized": {
+              "value": "2096-0654",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://portal.issn.org/resource/ISSN/2096-0654"
+            },
+            "external-id-relationship": "part-of"
+          }
+        ]
+      },
+      "url": {
+        "value": "http://dx.doi.org/10.26599/bdma.2019.9020015"
+      },
+      "type": "journal-article",
+      "publication-date": {
+        "year": {
+          "value": "2020"
+        },
+        "month": {
+          "value": "06"
+        },
+        "day": null
+      },
+      "journal-title": {
+        "value": "Big Data Mining and Analytics"
+      },
+      "visibility": "public",
+      "path": "/0000-0002-5795-787X/work/102718920",
+      "display-index": "1"
+    },
+    {
+      "put-code": 102719025,
+      "created-date": {
+        "value": 1636269055788
+      },
+      "last-modified-date": {
+        "value": 1680582738373
+      },
+      "source": {
+        "source-orcid": {
+          "uri": "https://orcid.org/0000-0002-5795-787X",
+          "path": "0000-0002-5795-787X",
+          "host": "orcid.org"
+        },
+        "source-client-id": null,
+        "source-name": {
+          "value": "Mohammad Sultan Mahmud, Ph.D."
+        },
+        "assertion-origin-orcid": null,
+        "assertion-origin-client-id": null,
+        "assertion-origin-name": null
+      },
+      "title": {
+        "title": {
+          "value": "Variational Autoencoder-Based Dimensionality Reduction for High-Dimensional Small-Sample Data Classification"
+        },
+        "subtitle": null,
+        "translated-title": null
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1142/s1469026820500029",
+            "external-id-normalized": {
+              "value": "10.1142/s1469026820500029",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1142/s1469026820500029"
+            },
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "issn",
+            "external-id-value": "1469-0268",
+            "external-id-normalized": {
+              "value": "1469-0268",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://portal.issn.org/resource/ISSN/1469-0268"
+            },
+            "external-id-relationship": "part-of"
+          },
+          {
+            "external-id-type": "issn",
+            "external-id-value": "1757-5885",
+            "external-id-normalized": {
+              "value": "1757-5885",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://portal.issn.org/resource/ISSN/1757-5885"
+            },
+            "external-id-relationship": "part-of"
+          }
+        ]
+      },
+      "url": {
+        "value": "http://dx.doi.org/10.1142/s1469026820500029"
+      },
+      "type": "journal-article",
+      "publication-date": {
+        "year": {
+          "value": "2020"
+        },
+        "month": {
+          "value": "03"
+        },
+        "day": null
+      },
+      "journal-title": {
+        "value": "International Journal of Computational Intelligence and Applications"
+      },
+      "visibility": "public",
+      "path": "/0000-0002-5795-787X/work/102719025",
+      "display-index": "1"
+    },
+    {
+      "put-code": 102719019,
+      "created-date": {
+        "value": 1636268998782
+      },
+      "last-modified-date": {
+        "value": 1680582796516
+      },
+      "source": {
+        "source-orcid": {
+          "uri": "https://orcid.org/0000-0002-5795-787X",
+          "path": "0000-0002-5795-787X",
+          "host": "orcid.org"
+        },
+        "source-client-id": null,
+        "source-name": {
+          "value": "Mohammad Sultan Mahmud, Ph.D."
+        },
+        "assertion-origin-orcid": null,
+        "assertion-origin-client-id": null,
+        "assertion-origin-name": null
+      },
+      "title": {
+        "title": {
+          "value": "Unsupervised classification of high-dimension and low-sample data with variational autoencoder based dimensionality reduction"
+        },
+        "subtitle": null,
+        "translated-title": null
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1109/icarm.2019.8834333",
+            "external-id-normalized": {
+              "value": "10.1109/icarm.2019.8834333",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1109/icarm.2019.8834333"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "url": {
+        "value": "http://dx.doi.org/10.1109/icarm.2019.8834333"
+      },
+      "type": "conference-paper",
+      "publication-date": {
+        "year": {
+          "value": "2019"
+        },
+        "month": {
+          "value": "07"
+        },
+        "day": null
+      },
+      "journal-title": {
+        "value": "2019 IEEE 4th International Conference on Advanced Robotics and Mechatronics (ICARM)"
+      },
+      "visibility": "public",
+      "path": "/0000-0002-5795-787X/work/102719019",
+      "display-index": "1"
+    },
+    {
+      "put-code": 102719069,
+      "created-date": {
+        "value": 1636269248985
+      },
+      "last-modified-date": {
+        "value": 1680583535404
+      },
+      "source": {
+        "source-orcid": {
+          "uri": "https://orcid.org/0000-0002-5795-787X",
+          "path": "0000-0002-5795-787X",
+          "host": "orcid.org"
+        },
+        "source-client-id": null,
+        "source-name": {
+          "value": "Mohammad Sultan Mahmud, Ph.D."
+        },
+        "assertion-origin-orcid": null,
+        "assertion-origin-client-id": null,
+        "assertion-origin-name": null
+      },
+      "title": {
+        "title": {
+          "value": "High-Dimensional Limited-Sample Biomedical Data Classification Using Variational Autoencoder"
+        },
+        "subtitle": null,
+        "translated-title": null
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1007/978-981-13-6661-1_3",
+            "external-id-normalized": {
+              "value": "10.1007/978-981-13-6661-1_3",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1007/978-981-13-6661-1_3"
+            },
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "issn",
+            "external-id-value": "1865-0929",
+            "external-id-normalized": {
+              "value": "1865-0929",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://portal.issn.org/resource/ISSN/1865-0929"
+            },
+            "external-id-relationship": "part-of"
+          },
+          {
+            "external-id-type": "issn",
+            "external-id-value": "1865-0937",
+            "external-id-normalized": {
+              "value": "1865-0937",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://portal.issn.org/resource/ISSN/1865-0937"
+            },
+            "external-id-relationship": "part-of"
+          }
+        ]
+      },
+      "url": {
+        "value": "http://dx.doi.org/10.1007/978-981-13-6661-1_3"
+      },
+      "type": "book-chapter",
+      "publication-date": {
+        "year": {
+          "value": "2019"
+        },
+        "month": null,
+        "day": null
+      },
+      "journal-title": {
+        "value": "Communications in Computer and Information Science"
+      },
+      "visibility": "public",
+      "path": "/0000-0002-5795-787X/work/102719069",
+      "display-index": "1"
+    },
+    {
+      "put-code": 102719033,
+      "created-date": {
+        "value": 1636269105491
+      },
+      "last-modified-date": {
+        "value": 1680583450770
+      },
+      "source": {
+        "source-orcid": {
+          "uri": "https://orcid.org/0000-0002-5795-787X",
+          "path": "0000-0002-5795-787X",
+          "host": "orcid.org"
+        },
+        "source-client-id": null,
+        "source-name": {
+          "value": "Mohammad Sultan Mahmud, Ph.D."
+        },
+        "assertion-origin-orcid": null,
+        "assertion-origin-client-id": null,
+        "assertion-origin-name": null
+      },
+      "title": {
+        "title": {
+          "value": "Smart Fire Detection System with Early Notifications Using Machine Learning"
+        },
+        "subtitle": null,
+        "translated-title": null
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1142/s1469026817500092",
+            "external-id-normalized": {
+              "value": "10.1142/s1469026817500092",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1142/s1469026817500092"
+            },
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "issn",
+            "external-id-value": "1469-0268",
+            "external-id-normalized": {
+              "value": "1469-0268",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://portal.issn.org/resource/ISSN/1469-0268"
+            },
+            "external-id-relationship": "part-of"
+          },
+          {
+            "external-id-type": "issn",
+            "external-id-value": "1757-5885",
+            "external-id-normalized": {
+              "value": "1757-5885",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://portal.issn.org/resource/ISSN/1757-5885"
+            },
+            "external-id-relationship": "part-of"
+          }
+        ]
+      },
+      "url": {
+        "value": "http://dx.doi.org/10.1142/s1469026817500092"
+      },
+      "type": "journal-article",
+      "publication-date": {
+        "year": {
+          "value": "2017"
+        },
+        "month": {
+          "value": "06"
+        },
+        "day": null
+      },
+      "journal-title": {
+        "value": "International Journal of Computational Intelligence and Applications"
+      },
+      "visibility": "public",
+      "path": "/0000-0002-5795-787X/work/102719033",
+      "display-index": "1"
+    },
+    {
+      "put-code": 102718980,
+      "created-date": {
+        "value": 1636268853052
+      },
+      "last-modified-date": {
+        "value": 1680582858753
+      },
+      "source": {
+        "source-orcid": {
+          "uri": "https://orcid.org/0000-0002-5795-787X",
+          "path": "0000-0002-5795-787X",
+          "host": "orcid.org"
+        },
+        "source-client-id": null,
+        "source-name": {
+          "value": "Mohammad Sultan Mahmud, Ph.D."
+        },
+        "assertion-origin-orcid": null,
+        "assertion-origin-client-id": null,
+        "assertion-origin-name": null
+      },
+      "title": {
+        "title": {
+          "value": "An evaluation of computational intelligence in credit card fraud detection"
+        },
+        "subtitle": null,
+        "translated-title": null
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1109/icsec.2016.7859947",
+            "external-id-normalized": {
+              "value": "10.1109/icsec.2016.7859947",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1109/icsec.2016.7859947"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "url": {
+        "value": "http://dx.doi.org/10.1109/icsec.2016.7859947"
+      },
+      "type": "conference-paper",
+      "publication-date": {
+        "year": {
+          "value": "2016"
+        },
+        "month": {
+          "value": "12"
+        },
+        "day": null
+      },
+      "journal-title": {
+        "value": "2016 International Computer Science and Engineering Conference (ICSEC)"
+      },
+      "visibility": "public",
+      "path": "/0000-0002-5795-787X/work/102718980",
+      "display-index": "1"
+    },
+    {
+      "put-code": 102718935,
+      "created-date": {
+        "value": 1636268748097
+      },
+      "last-modified-date": {
+        "value": 1680582888413
+      },
+      "source": {
+        "source-orcid": {
+          "uri": "https://orcid.org/0000-0002-5795-787X",
+          "path": "0000-0002-5795-787X",
+          "host": "orcid.org"
+        },
+        "source-client-id": null,
+        "source-name": {
+          "value": "Mohammad Sultan Mahmud, Ph.D."
+        },
+        "assertion-origin-orcid": null,
+        "assertion-origin-client-id": null,
+        "assertion-origin-name": null
+      },
+      "title": {
+        "title": {
+          "value": "An innovative recurrent error-based neuro-fuzzy system with momentum for stock price prediction"
+        },
+        "subtitle": null,
+        "translated-title": null
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1007/s00500-015-1752-z",
+            "external-id-normalized": {
+              "value": "10.1007/s00500-015-1752-z",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1007/s00500-015-1752-z"
+            },
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "issn",
+            "external-id-value": "1432-7643",
+            "external-id-normalized": {
+              "value": "1432-7643",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://portal.issn.org/resource/ISSN/1432-7643"
+            },
+            "external-id-relationship": "part-of"
+          },
+          {
+            "external-id-type": "issn",
+            "external-id-value": "1433-7479",
+            "external-id-normalized": {
+              "value": "1433-7479",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://portal.issn.org/resource/ISSN/1433-7479"
+            },
+            "external-id-relationship": "part-of"
+          }
+        ]
+      },
+      "url": {
+        "value": "http://dx.doi.org/10.1007/s00500-015-1752-z"
+      },
+      "type": "journal-article",
+      "publication-date": {
+        "year": {
+          "value": "2016"
+        },
+        "month": {
+          "value": "10"
+        },
+        "day": null
+      },
+      "journal-title": {
+        "value": "Soft Computing"
+      },
+      "visibility": "public",
+      "path": "/0000-0002-5795-787X/work/102718935",
+      "display-index": "1"
+    },
+    {
+      "put-code": 102719009,
+      "created-date": {
+        "value": 1636268947499
+      },
+      "last-modified-date": {
+        "value": 1680583384412
+      },
+      "source": {
+        "source-orcid": {
+          "uri": "https://orcid.org/0000-0002-5795-787X",
+          "path": "0000-0002-5795-787X",
+          "host": "orcid.org"
+        },
+        "source-client-id": null,
+        "source-name": {
+          "value": "Mohammad Sultan Mahmud, Ph.D."
+        },
+        "assertion-origin-orcid": null,
+        "assertion-origin-client-id": null,
+        "assertion-origin-name": null
+      },
+      "title": {
+        "title": {
+          "value": "Intelligent traffic monitoring system using VANET infrastructure and ant colony optimization"
+        },
+        "subtitle": null,
+        "translated-title": null
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1109/iciev.2016.7760025",
+            "external-id-normalized": {
+              "value": "10.1109/iciev.2016.7760025",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1109/iciev.2016.7760025"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "url": {
+        "value": "http://dx.doi.org/10.1109/iciev.2016.7760025"
+      },
+      "type": "conference-paper",
+      "publication-date": {
+        "year": {
+          "value": "2016"
+        },
+        "month": {
+          "value": "05"
+        },
+        "day": null
+      },
+      "journal-title": {
+        "value": "2016 5th International Conference on Informatics, Electronics and Vision (ICIEV)"
+      },
+      "visibility": "public",
+      "path": "/0000-0002-5795-787X/work/102719009",
+      "display-index": "1"
+    },
+    {
+      "put-code": 102719080,
+      "created-date": {
+        "value": 1636269379478
+      },
+      "last-modified-date": {
+        "value": 1680582933018
+      },
+      "source": {
+        "source-orcid": {
+          "uri": "https://orcid.org/0000-0002-5795-787X",
+          "path": "0000-0002-5795-787X",
+          "host": "orcid.org"
+        },
+        "source-client-id": null,
+        "source-name": {
+          "value": "Mohammad Sultan Mahmud, Ph.D."
+        },
+        "assertion-origin-orcid": null,
+        "assertion-origin-client-id": null,
+        "assertion-origin-name": null
+      },
+      "title": {
+        "title": {
+          "value": "Time series stock price prediction using recurrent error based neuro-fuzzy system with momentum"
+        },
+        "subtitle": null,
+        "translated-title": null
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1109/ieecon.2014.6925866",
+            "external-id-normalized": {
+              "value": "10.1109/ieecon.2014.6925866",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1109/ieecon.2014.6925866"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "url": {
+        "value": "http://dx.doi.org/10.1109/ieecon.2014.6925866"
+      },
+      "type": "conference-paper",
+      "publication-date": {
+        "year": {
+          "value": "2014"
+        },
+        "month": {
+          "value": "03"
+        },
+        "day": null
+      },
+      "journal-title": {
+        "value": "2014 International Electrical Engineering Congress (iEECON)"
+      },
+      "visibility": "public",
+      "path": "/0000-0002-5795-787X/work/102719080",
+      "display-index": "1"
+    }
+  ],
+  "employments": [
+    {
+      "last-modified-date": {
+        "value": 1774758949759
+      },
+      "external-ids": {
+        "external-id": []
+      },
+      "summaries": [
+        {
+          "employment-summary": {
+            "created-date": {
+              "value": 1774758933809
+            },
+            "last-modified-date": {
+              "value": 1774758949759
+            },
+            "source": {
+              "source-orcid": {
+                "uri": "https://orcid.org/0000-0002-5795-787X",
+                "path": "0000-0002-5795-787X",
+                "host": "orcid.org"
+              },
+              "source-client-id": null,
+              "source-name": {
+                "value": "Mohammad Sultan Mahmud, Ph.D."
+              },
+              "assertion-origin-orcid": null,
+              "assertion-origin-client-id": null,
+              "assertion-origin-name": null
+            },
+            "put-code": 35460215,
+            "department-name": null,
+            "role-title": null,
+            "start-date": null,
+            "end-date": null,
+            "organization": {
+              "name": "Shenzhen Technology University",
+              "address": {
+                "city": "Shenzhen",
+                "region": "Guangdong",
+                "country": "CN"
+              },
+              "disambiguated-organization": {
+                "disambiguated-organization-identifier": "https://ror.org/04qzpec27",
+                "disambiguation-source": "ROR"
+              }
+            },
+            "url": null,
+            "external-ids": null,
+            "display-index": "0",
+            "visibility": "public",
+            "path": "/0000-0002-5795-787X/employment/35460215"
+          }
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1774758949759
+      },
+      "external-ids": {
+        "external-id": []
+      },
+      "summaries": [
+        {
+          "employment-summary": {
+            "created-date": {
+              "value": 1750339472240
+            },
+            "last-modified-date": {
+              "value": 1774758949759
+            },
+            "source": {
+              "source-orcid": {
+                "uri": "https://orcid.org/0000-0002-5795-787X",
+                "path": "0000-0002-5795-787X",
+                "host": "orcid.org"
+              },
+              "source-client-id": null,
+              "source-name": {
+                "value": "Mohammad Sultan Mahmud, Ph.D."
+              },
+              "assertion-origin-orcid": null,
+              "assertion-origin-client-id": null,
+              "assertion-origin-name": null
+            },
+            "put-code": 29864124,
+            "department-name": null,
+            "role-title": null,
+            "start-date": null,
+            "end-date": null,
+            "organization": {
+              "name": "Shenzhen University",
+              "address": {
+                "city": "Shenzhen",
+                "region": "Guangdong",
+                "country": "CN"
+              },
+              "disambiguated-organization": {
+                "disambiguated-organization-identifier": "https://ror.org/01vy4gh70",
+                "disambiguation-source": "ROR"
+              }
+            },
+            "url": null,
+            "external-ids": null,
+            "display-index": "0",
+            "visibility": "public",
+            "path": "/0000-0002-5795-787X/employment/29864124"
+          }
+        }
+      ]
+    }
+  ],
+  "educations": []
+}

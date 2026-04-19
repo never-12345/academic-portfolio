@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { profileData, newsItems, mediaItems } from '../data/content';
-import { ExternalLink, MapPin, Mail, Landmark, GraduationCap } from 'lucide-react';
+import { ExternalLink, MapPin, Mail, Landmark } from 'lucide-react';
 
 export function Home() {
   return (

@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { GraduationCap, Briefcase, Calendar } from 'lucide-react';
+import { GraduationCap, Calendar } from 'lucide-react';
 import { teachingTimeline } from '../data/content';
 
 export function Teaching() {

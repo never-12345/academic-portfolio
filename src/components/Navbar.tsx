@@ -1,5 +1,5 @@
 import { Link, useLocation } from 'react-router-dom';
-import { Menu, X, BookOpen, Users, GraduationCap, FileText, HeartHandshake } from 'lucide-react';
+import { Menu, X, Users, GraduationCap, FileText, BookOpen } from 'lucide-react';
 import { useState } from 'react';
 import clsx from 'clsx';
 

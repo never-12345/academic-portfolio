@@ -50,9 +50,9 @@ export function Home() {
             </div>
 
             {profileData.email && (
-              <div className="flex items-center gap-3 mt-2 pt-4 border-t border-slate-100">
-                <Mail size={18} className="text-slate-500" /> 
-                <a href={`mailto:${profileData.email}`} className="hover:text-accent font-medium transition-colors text-lg">{profileData.email}</a>
+              <div className="flex items-center gap-3 mt-1 pl-1">
+                <Mail size={18} className="text-slate-400" /> 
+                <a href={`mailto:${profileData.email}`} className="text-slate-600 hover:text-accent font-medium transition-colors text-lg">{profileData.email}</a>
               </div>
             )}
           </motion.div>

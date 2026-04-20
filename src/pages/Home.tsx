@@ -7,53 +7,53 @@ export function Home() {
     <div className="flex flex-col gap-12 md:gap-16 max-w-5xl mx-auto px-4 py-8">
       
       {/* Hero Section */}
-      <section className="flex flex-col md:flex-row gap-10 md:items-stretch">
+      <section className="flex flex-col md:flex-row gap-8 items-stretch max-w-4xl mx-auto">
         <motion.div 
           initial={{ opacity: 0, scale: 0.9 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.5 }}
-          className="w-48 h-48 md:w-64 md:h-64 rounded-2xl overflow-hidden shrink-0 shadow-2xl border-4 border-white bg-slate-200"
+          className="w-40 h-44 md:w-48 md:h-52 rounded-xl overflow-hidden shrink-0 shadow-lg border-2 border-white bg-slate-200"
         >
           <div className="w-full h-full bg-slate-100">
             <img src="/sir-2.0.png" alt={profileData.name} className="w-full h-full object-cover" />
           </div>
         </motion.div>
         
-        <div className="flex-1 flex flex-col justify-between py-2">
+        <div className="flex flex-col justify-between py-0.5 h-44 md:h-52">
           <motion.div 
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.1 }}
           >
-            <h1 className="text-lg md:text-xl font-bold text-slate-900 tracking-tight leading-tight">{profileData.name}</h1>
-            <p className="text-sm md:text-base text-accent font-semibold mt-0.5">{profileData.title}</p>
+            <h1 className="text-lg md:text-xl font-bold text-slate-900 tracking-tight leading-none">{profileData.name}</h1>
+            <p className="text-[10px] md:text-xs text-accent font-semibold mt-1 uppercase tracking-wider">{profileData.title}</p>
           </motion.div>
           
           <motion.div 
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.2 }}
-            className="flex flex-col gap-3 text-slate-600"
+            className="flex flex-col gap-1.5 text-slate-600"
           >
-            <div className="flex flex-col gap-3">
+            <div className="flex flex-col gap-1.5">
               {profileData.affiliations.map((affil, idx) => (
                 <div key={idx} className="flex flex-col gap-0.5">
-                  <div className="flex items-start md:items-center gap-2 text-slate-800 font-medium text-sm border-l-2 border-accent pl-2">
-                    <GraduationCap size={14} className="text-accent shrink-0" />
+                  <div className="flex items-center gap-2 text-slate-800 font-medium text-[11px] leading-tight">
+                    <GraduationCap size={12} className="text-accent shrink-0" />
                     <span>{affil.university}</span>
                   </div>
-                  <div className="flex items-start md:items-center gap-2 text-slate-500 pl-3">
-                    <MapPin size={12} className="text-slate-400 shrink-0" />
-                    <span className="text-xs">{affil.address}</span>
+                  <div className="flex items-center gap-2 text-slate-500 pl-4">
+                    <MapPin size={10} className="text-slate-400 shrink-0" />
+                    <span className="text-[9px] leading-tight">{affil.address}</span>
                   </div>
                 </div>
               ))}
             </div>
 
             {profileData.email && (
-              <div className="flex items-center gap-2 mt-0.5 pl-1">
-                <Mail size={12} className="text-accent shrink-0" />
-                <a href={`mailto:${profileData.email}`} className="text-slate-600 hover:text-accent font-medium transition-colors text-xs">{profileData.email}</a>
+              <div className="flex items-center gap-2 pl-0.5">
+                <Mail size={10} className="text-accent shrink-0" />
+                <a href={`mailto:${profileData.email}`} className="text-slate-600 hover:text-accent font-medium transition-colors text-[9px] leading-none">{profileData.email}</a>
               </div>
             )}
           </motion.div>

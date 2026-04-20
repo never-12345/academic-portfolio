@@ -19,8 +19,8 @@ export function Navbar() {
     <nav className="sticky top-0 z-50 w-full bg-white/80 backdrop-blur-md border-b border-slate-200">
       <div className="max-w-6xl mx-auto px-4 md:px-8">
         <div className="flex justify-between items-center h-16">
-          <Link to="/" className="text-lg font-bold tracking-tight text-slate-900 hover:text-accent transition-colors">
-            {profileData.name}
+          <Link to="/" className="text-slate-900 hover:text-accent transition-colors">
+            <BookOpen className="w-6 h-6" />
           </Link>
           
           {/* Desktop Nav */}

@@ -73,3 +73,37 @@ export const teachingTimeline = [
   { date: "2017", content: "Recognized as Outstanding Doctoral Student of Shenzhen University." },
   { date: "2014", content: "Received Master's degree from King Mongkut's University of Technology North Bangkok, Thailand." }
 ];
+
+export const servicesData = {
+  editorial: [
+    {
+      role: "Guest Editor",
+      title: "Special Issue on 'Mixture of Experts (MoE) and Ensemble Learning for Big Data'",
+      journal: "Information Fusion (Elsevier, IF: 14.7)",
+      details: "Organizer for high-impact research contributions in ensemble learning."
+    }
+  ],
+  journalReviewer: [
+    "Information Fusion (Elsevier)",
+    "IEEE Transactions on Big Data",
+    "Big Data Mining and Analytics (Tsinghua University Press / IEEE)",
+    "Journal of Big Data (Springer)",
+    "Knowledge-Based Systems (Elsevier)",
+    "Expert Systems with Applications (Elsevier)"
+  ],
+  conferenceService: [
+    {
+      role: "Program Committee Member",
+      conference: "International Conference on Digital Image Processing (ICDIP 2024)"
+    },
+    {
+      role: "Reviewer",
+      conference: "Various international conferences in Big Data, AI, and Parallel Computing"
+    }
+  ],
+  memberships: [
+    "Member, Institute of Electrical and Electronics Engineers (IEEE)",
+    "Member, Association for Computing Machinery (ACM)"
+  ]
+};
+

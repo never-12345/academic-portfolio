@@ -4,6 +4,7 @@ import { Home } from './pages/Home';
 import { Publications } from './pages/Publications';
 import { Students } from './pages/Students';
 import { Teaching } from './pages/Teaching';
+import { Services } from './pages/Services';
 
 export default function App() {
   return (
@@ -13,6 +14,7 @@ export default function App() {
           <Route path="/" element={<Home />} />
           <Route path="/teaching" element={<Teaching />} />
           <Route path="/publications" element={<Publications />} />
+          <Route path="/services" element={<Services />} />
           <Route path="/students" element={<Students />} />
         </Routes>
       </Layout>

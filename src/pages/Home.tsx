@@ -1,4 +1,5 @@
 import { motion } from 'framer-motion';
+import { MapPin, Mail, GraduationCap } from 'lucide-react';
 import { profileData, newsItems, mediaItems } from '../data/content';
 
 export function Home() {
@@ -24,32 +25,35 @@ export function Home() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.1 }}
           >
-            <h1 className="text-xl md:text-2xl font-bold text-slate-900 tracking-tight leading-tight">{profileData.name}</h1>
-            <p className="text-xl md:text-2xl text-accent font-semibold mt-1">{profileData.title}</p>
+            <h1 className="text-lg md:text-xl font-bold text-slate-900 tracking-tight leading-tight">{profileData.name}</h1>
+            <p className="text-sm md:text-base text-accent font-semibold mt-0.5">{profileData.title}</p>
           </motion.div>
           
           <motion.div 
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.2 }}
-            className="flex flex-col gap-5 text-slate-600 mt-4"
+            className="flex flex-col gap-3 text-slate-600 mt-3"
           >
-            <div className="flex flex-col gap-5">
+            <div className="flex flex-col gap-3">
               {profileData.affiliations.map((affil, idx) => (
-                <div key={idx} className="flex flex-col gap-1.5">
-                  <div className="flex items-start md:items-center gap-3 text-slate-800 font-medium text-lg border-l-4 border-accent pl-3">
+                <div key={idx} className="flex flex-col gap-0.5">
+                  <div className="flex items-start md:items-center gap-2 text-slate-800 font-medium text-sm border-l-2 border-accent pl-2">
+                    <GraduationCap size={14} className="text-accent shrink-0" />
                     <span>{affil.university}</span>
                   </div>
-                  <div className="flex items-start md:items-center gap-3 text-slate-500 pl-4">
-                    <span>{affil.address}</span>
+                  <div className="flex items-start md:items-center gap-2 text-slate-500 pl-3">
+                    <MapPin size={12} className="text-slate-400 shrink-0" />
+                    <span className="text-xs">{affil.address}</span>
                   </div>
                 </div>
               ))}
             </div>
 
             {profileData.email && (
-              <div className="flex items-center gap-3 mt-1 pl-1">
-                <a href={`mailto:${profileData.email}`} className="text-slate-600 hover:text-accent font-medium transition-colors text-lg">{profileData.email}</a>
+              <div className="flex items-center gap-2 mt-0.5 pl-1">
+                <Mail size={12} className="text-accent shrink-0" />
+                <a href={`mailto:${profileData.email}`} className="text-slate-600 hover:text-accent font-medium transition-colors text-xs">{profileData.email}</a>
               </div>
             )}
           </motion.div>

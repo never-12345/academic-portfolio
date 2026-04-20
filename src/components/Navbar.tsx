@@ -7,6 +7,7 @@ const navItems = [
   { name: 'Home', path: '/', icon: <BookOpen className="w-5 h-5 mb-1" /> },
   { name: 'Teaching', path: '/teaching', icon: <GraduationCap className="w-5 h-5 mb-1" /> },
   { name: 'Publications', path: '/publications', icon: <FileText className="w-5 h-5 mb-1" /> },
+  { name: 'Services', path: '/services', icon: <Users className="w-5 h-5 mb-1" /> },
   { name: 'Students', path: '/students', icon: <Users className="w-5 h-5 mb-1" /> },
 ];
 

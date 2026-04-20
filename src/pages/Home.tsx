@@ -19,12 +19,12 @@ export function Home() {
           </div>
         </motion.div>
         
-        <div className="flex flex-col justify-start py-0.5 h-auto md:h-52">
+        <div className="flex flex-col justify-start py-0.5">
           <motion.div 
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.1 }}
-            className="flex flex-col"
+            className="flex flex-col mb-2"
           >
             <h1 className="text-lg md:text-xl font-bold text-slate-900 tracking-tight leading-tight">{profileData.name}</h1>
             <p className="text-[10px] md:text-xs text-accent font-semibold uppercase tracking-wider">{profileData.title}</p>
@@ -34,11 +34,11 @@ export function Home() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.2 }}
-            className="flex flex-col gap-4 text-slate-600 mt-auto"
+            className="flex flex-col gap-2 text-slate-600"
           >
-            <div className="flex flex-col gap-2.5">
+            <div className="flex flex-col gap-2">
               {profileData.affiliations.map((affil, idx) => (
-                <div key={idx} className="flex flex-col gap-0.5">
+                <div key={idx} className="flex flex-col">
                   <div className="flex items-center gap-2 text-slate-800 font-medium text-[11px] leading-tight">
                     <GraduationCap size={12} className="text-accent shrink-0" />
                     <span>{affil.university}</span>
@@ -52,7 +52,7 @@ export function Home() {
             </div>
 
             {profileData.email && (
-              <div className="flex items-center gap-2 pl-0.5">
+              <div className="flex items-center gap-2 pl-0.5 mt-1">
                 <Mail size={10} className="text-accent shrink-0" />
                 <a href={`mailto:${profileData.email}`} className="text-slate-600 hover:text-accent font-medium transition-colors text-[9px] leading-none">{profileData.email}</a>
               </div>

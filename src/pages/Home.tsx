@@ -1,6 +1,5 @@
 import { motion } from 'framer-motion';
 import { profileData, newsItems, mediaItems } from '../data/content';
-import { MapPin, Mail } from 'lucide-react';
 
 export function Home() {
   return (
@@ -42,7 +41,6 @@ export function Home() {
                     <span>{affil.university}</span>
                   </div>
                   <div className="flex items-start md:items-center gap-3 text-slate-500 pl-4">
-                    <MapPin size={18} className="shrink-0 text-slate-400 mt-0.5 md:mt-0" /> 
                     <span>{affil.address}</span>
                   </div>
                 </div>
@@ -51,7 +49,6 @@ export function Home() {
 
             {profileData.email && (
               <div className="flex items-center gap-3 mt-1 pl-1">
-                <Mail size={18} className="text-slate-400" /> 
                 <a href={`mailto:${profileData.email}`} className="text-slate-600 hover:text-accent font-medium transition-colors text-lg">{profileData.email}</a>
               </div>
             )}

@@ -68,44 +68,6 @@ export function Home() {
       >
         <div className="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-slate-100 leading-relaxed">
           <p className="text-lg text-slate-700 whitespace-pre-wrap">{profileData.bio}</p>
-          
-          <div className="mt-8 flex flex-wrap gap-4">
-            {profileData.scholarUrl && profileData.scholarUrl !== "#" && (
-              <a href={profileData.scholarUrl} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 px-5 py-2.5 bg-accent text-white font-medium rounded-lg hover:bg-blue-700 transition-colors">
-                Google Scholar <ExternalLink size={16} />
-              </a>
-            )}
-            {profileData.researchGateUrl && profileData.researchGateUrl !== "#" && (
-              <a href={profileData.researchGateUrl} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 px-5 py-2.5 bg-slate-100 text-slate-700 font-medium rounded-lg hover:bg-slate-200 transition-colors">
-                ResearchGate <ExternalLink size={16} />
-              </a>
-            )}
-            {profileData.scopusUrl && profileData.scopusUrl !== "#" && (
-              <a href={profileData.scopusUrl} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 px-5 py-2.5 bg-slate-100 text-slate-700 font-medium rounded-lg hover:bg-slate-200 transition-colors">
-                Scopus <ExternalLink size={16} />
-              </a>
-            )}
-            {profileData.orcidUrl && profileData.orcidUrl !== "#" && (
-              <a href={profileData.orcidUrl} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 px-5 py-2.5 bg-slate-100 text-slate-700 font-medium rounded-lg hover:bg-slate-200 transition-colors">
-                ORCID <ExternalLink size={16} />
-              </a>
-            )}
-            {profileData.dblpUrl && profileData.dblpUrl !== "#" && (
-              <a href={profileData.dblpUrl} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 px-5 py-2.5 bg-slate-100 text-slate-700 font-medium rounded-lg hover:bg-slate-200 transition-colors">
-                DBLP <ExternalLink size={16} />
-              </a>
-            )}
-            {profileData.ieeeUrl && profileData.ieeeUrl !== "#" && (
-              <a href={profileData.ieeeUrl} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 px-5 py-2.5 bg-slate-100 text-slate-700 font-medium rounded-lg hover:bg-slate-200 transition-colors">
-                IEEE Xplore <ExternalLink size={16} />
-              </a>
-            )}
-            {profileData.wosUrl && profileData.wosUrl !== "#" && (
-              <a href={profileData.wosUrl} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 px-5 py-2.5 bg-slate-100 text-slate-700 font-medium rounded-lg hover:bg-slate-200 transition-colors">
-                Web of Science <ExternalLink size={16} />
-              </a>
-            )}
-          </div>
         </div>
       </motion.section>
 

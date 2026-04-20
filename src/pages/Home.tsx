@@ -7,7 +7,7 @@ export function Home() {
     <div className="flex flex-col gap-12 md:gap-16 max-w-5xl mx-auto px-4 py-8">
       
       {/* Hero Section */}
-      <section className="flex flex-col md:flex-row gap-8 items-stretch max-w-4xl mx-auto">
+      <section className="flex flex-col md:flex-row gap-8 items-start max-w-none">
         <motion.div 
           initial={{ opacity: 0, scale: 0.9 }}
           animate={{ opacity: 1, scale: 1 }}
@@ -19,23 +19,24 @@ export function Home() {
           </div>
         </motion.div>
         
-        <div className="flex flex-col justify-between py-0.5 h-44 md:h-52">
+        <div className="flex flex-col justify-start py-0.5 h-auto md:h-52">
           <motion.div 
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.1 }}
+            className="flex flex-col"
           >
-            <h1 className="text-lg md:text-xl font-bold text-slate-900 tracking-tight leading-none">{profileData.name}</h1>
-            <p className="text-[10px] md:text-xs text-accent font-semibold mt-1 uppercase tracking-wider">{profileData.title}</p>
+            <h1 className="text-lg md:text-xl font-bold text-slate-900 tracking-tight leading-tight">{profileData.name}</h1>
+            <p className="text-[10px] md:text-xs text-accent font-semibold uppercase tracking-wider">{profileData.title}</p>
           </motion.div>
           
           <motion.div 
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.2 }}
-            className="flex flex-col gap-1.5 text-slate-600"
+            className="flex flex-col gap-4 text-slate-600 mt-auto"
           >
-            <div className="flex flex-col gap-1.5">
+            <div className="flex flex-col gap-2.5">
               {profileData.affiliations.map((affil, idx) => (
                 <div key={idx} className="flex flex-col gap-0.5">
                   <div className="flex items-center gap-2 text-slate-800 font-medium text-[11px] leading-tight">

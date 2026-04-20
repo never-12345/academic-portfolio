@@ -19,42 +19,42 @@ export function Home() {
           </div>
         </motion.div>
         
-        <div className="flex flex-col justify-start py-0.5">
+        <div className="flex flex-col justify-between py-1 h-44 md:h-52">
           <motion.div 
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.1 }}
-            className="flex flex-col mb-2"
+            className="flex flex-col gap-1"
           >
-            <h1 className="text-lg md:text-xl font-bold text-slate-900 tracking-tight leading-tight">{profileData.name}</h1>
-            <p className="text-[10px] md:text-xs text-accent font-semibold uppercase tracking-wider">{profileData.title}</p>
+            <h1 className="text-xl md:text-3xl font-bold text-slate-900 tracking-tight leading-none">{profileData.name}</h1>
+            <p className="text-sm md:text-lg text-accent font-semibold uppercase tracking-wide">{profileData.title}</p>
           </motion.div>
           
           <motion.div 
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.2 }}
-            className="flex flex-col gap-2 text-slate-600"
+            className="flex flex-col justify-between h-28 md:h-32 text-slate-600"
           >
-            <div className="flex flex-col gap-2">
+            <div className="flex flex-col gap-4">
               {profileData.affiliations.map((affil, idx) => (
-                <div key={idx} className="flex flex-col">
-                  <div className="flex items-center gap-2 text-slate-800 font-medium text-[11px] leading-tight">
-                    <GraduationCap size={12} className="text-accent shrink-0" />
+                <div key={idx} className="flex flex-col gap-1">
+                  <div className="flex items-center gap-2 text-slate-800 font-medium text-sm md:text-base leading-none">
+                    <GraduationCap size={18} className="text-accent shrink-0" />
                     <span>{affil.university}</span>
                   </div>
-                  <div className="flex items-center gap-2 text-slate-500 pl-4">
-                    <MapPin size={10} className="text-slate-400 shrink-0" />
-                    <span className="text-[9px] leading-tight">{affil.address}</span>
+                  <div className="flex items-center gap-2 text-slate-500 pl-7">
+                    <MapPin size={14} className="text-slate-400 shrink-0" />
+                    <span className="text-xs md:text-sm leading-tight">{affil.address}</span>
                   </div>
                 </div>
               ))}
             </div>
 
             {profileData.email && (
-              <div className="flex items-center gap-2 pl-0.5 mt-1">
-                <Mail size={10} className="text-accent shrink-0" />
-                <a href={`mailto:${profileData.email}`} className="text-slate-600 hover:text-accent font-medium transition-colors text-[9px] leading-none">{profileData.email}</a>
+              <div className="flex items-center gap-2 pl-1 mt-1">
+                <Mail size={16} className="text-accent shrink-0" />
+                <a href={`mailto:${profileData.email}`} className="text-slate-600 hover:text-accent font-medium transition-colors text-xs md:text-base leading-none">{profileData.email}</a>
               </div>
             )}
           </motion.div>

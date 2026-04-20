@@ -7,7 +7,7 @@ export function Home() {
     <div className="flex flex-col gap-12 md:gap-16 max-w-5xl mx-auto px-4 py-8">
       
       {/* Hero Section */}
-      <section className="flex flex-col md:flex-row gap-10 items-start">
+      <section className="flex flex-col md:flex-row gap-10 md:items-stretch">
         <motion.div 
           initial={{ opacity: 0, scale: 0.9 }}
           animate={{ opacity: 1, scale: 1 }}
@@ -19,7 +19,7 @@ export function Home() {
           </div>
         </motion.div>
         
-        <div className="flex flex-col justify-start py-1">
+        <div className="flex-1 flex flex-col justify-between py-2">
           <motion.div 
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
@@ -33,7 +33,7 @@ export function Home() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.2 }}
-            className="flex flex-col gap-3 text-slate-600 mt-3"
+            className="flex flex-col gap-3 text-slate-600"
           >
             <div className="flex flex-col gap-3">
               {profileData.affiliations.map((affil, idx) => (

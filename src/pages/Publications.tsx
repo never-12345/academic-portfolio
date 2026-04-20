@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { BookOpen, ExternalLink } from 'lucide-react';
+import { ExternalLink } from 'lucide-react';
 import { profileData } from '../data/content';
 
 export function Publications() {
@@ -76,8 +76,7 @@ export function Publications() {
       exit={{ opacity: 0 }}
       className="max-w-5xl mx-auto px-4 py-12"
     >
-      <div className="flex items-center gap-3 mb-8">
-        <BookOpen className="w-8 h-8 text-accent" />
+      <div className="mb-8">
         <h1 className="text-4xl font-bold tracking-tight text-slate-900">Selected Publications</h1>
       </div>
 

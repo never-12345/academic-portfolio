@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Users, UserCircle, GraduationCap } from 'lucide-react';
+import { UserCircle, GraduationCap } from 'lucide-react';
 import { studentsData } from '../data/content';
 
 export function Students() {
@@ -16,8 +16,7 @@ export function Students() {
       exit={{ opacity: 0 }}
       className="max-w-5xl mx-auto px-4 py-12"
     >
-      <div className="flex items-center gap-3 mb-8">
-        <Users className="w-8 h-8 text-accent" />
+      <div className="mb-8">
         <h1 className="text-4xl font-bold tracking-tight text-slate-900">Research Group</h1>
       </div>
 

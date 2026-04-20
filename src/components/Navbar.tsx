@@ -1,7 +1,6 @@
 import { Link, useLocation } from 'react-router-dom';
 import { Menu, X, Users, GraduationCap, FileText, BookOpen } from 'lucide-react';
 import { useState } from 'react';
-import { profileData } from '../data/content';
 import clsx from 'clsx';
 
 const navItems = [

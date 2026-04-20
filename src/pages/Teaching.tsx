@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { GraduationCap, Calendar } from 'lucide-react';
+import { Calendar } from 'lucide-react';
 import { teachingTimeline } from '../data/content';
 
 export function Teaching() {
@@ -10,8 +10,7 @@ export function Teaching() {
       exit={{ opacity: 0 }}
       className="max-w-4xl mx-auto px-4 py-12"
     >
-      <div className="flex items-center gap-3 mb-10">
-        <GraduationCap className="w-8 h-8 text-accent" />
+      <div className="mb-10">
         <h1 className="text-4xl font-bold tracking-tight text-slate-900">Teaching & Appointments</h1>
       </div>
 
